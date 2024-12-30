@@ -2074,10 +2074,10 @@
     (fill yes (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
-        (xy 67.6148 46.5074)
+        (xy 68.326 40.132)
         (xy 68.1228 107.442)
         (xy 187.5282 107.7722)
-        (xy 182.753 42.5958)
+        (xy 187.706 41.148)
       )
     )
     (filled_polygon
